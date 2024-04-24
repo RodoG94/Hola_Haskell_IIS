@@ -1,2 +1,2 @@
 main :: IO()
-main = putStrLn "Hola Haskell"
+main = putStrLn "Hola Haskell IIS"
